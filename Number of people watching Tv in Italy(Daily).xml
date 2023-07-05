@@ -1,0 +1,1130 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>I.Stat</Author>
+  <LastAuthor>Saida</LastAuthor>
+  <Created>2023-07-02T15:26:36Z</Created>
+  <Company>ISTAT</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6820</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2539308132304">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308132324">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308132720">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308132740">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308132760">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308132780">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308132800">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308132820">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308130016">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308130036">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308130056">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308130076">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#2973BD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308130096">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2539308130116">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="9" ss:Color="#000080"
+    ss:Bold="1" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Color="#FFFFFF"
+    ss:Underline="Single"/>
+   <Interior ss:Color="#00A1E3" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Bold="1"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s99">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Courier New" x:Family="Modern" ss:Size="9" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Gray50" ss:PatternColor="#C0C0C0"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#C4D8ED" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s107">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#C0C0C0"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="8"/>
+   <Interior ss:Color="#F0F8FF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s109">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Verdana" x:Family="Swiss" ss:Size="8" ss:Underline="Single"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Tv and radio - detail age">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="120" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="12.5">
+   <Column ss:AutoFitWidth="0" ss:Width="144" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="13"/>
+   <Row ss:Hidden="1">
+    <Cell ss:StyleID="s62" ss:Formula="=DotStatQuery(RC[1])"><Data ss:Type="Error">#NAME?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;WebTableParameter xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns=&quot;http://stats.oecd.org/OECDStatWS/2004/03/01/&quot;&gt;&lt;DataTable Code=&quot;DCCV_AVQ_PERSONE&quot; HasMetadata=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Aspects of daily life&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Aspetti della vita quotidiana&lt;/Name&gt;&lt;Dimension Code=&quot;ITTER107&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;ITTER107&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Territory&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Territorio&lt;/Name&gt;&lt;Member Code=&quot;IT&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Italy&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Italia&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;TIPO_DATO_AVQ&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;TIPO_DATO_AVQ&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Data type&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Tipo dato&lt;/Name&gt;&lt;Member Code=&quot;3_MAS_MED&quot; HasMetadata=&quot;false&quot; HasChild=&quot;1&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;persons aged 3 years and over by use and frequency of use of TV and radio&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;persone di 3 anni e più per fruizione e frequenza di utilizzo di tv e radio&lt;/Name&gt;&lt;ChildMember Code=&quot;3_TV&quot; HasMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;watching tv&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;guardano la tv&lt;/Name&gt;&lt;/ChildMember&gt;&lt;ChildMember Code=&quot;3_TV_FD&quot; HasMetadata=&quot;true&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;everyday&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;tutti i giorni&lt;/Name&gt;&lt;/ChildMember&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;MISURA_AVQ&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;MISURA_AVQ&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Measure&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Misura&lt;/Name&gt;&lt;Member Code=&quot;THV&quot; HasMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;thousands value&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;valori in migliaia&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;HSC&quot; HasMetadata=&quot;false&quot; HasChild=&quot;0&quot; IsDisplayed=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;per 100 people with the same characteristics&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;per 100 persone con le stesse caratteristiche&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;SEXISTAT1&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;SEXISTAT1&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Gender&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Sesso&lt;/Name&gt;&lt;Member Code=&quot;1&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;males&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;maschi&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;females&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;femmine&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;9&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot; IsDisplayed=&quot;true&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;total&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;totale&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;ETA1&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;ETA1&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Age class&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Classe di età&lt;/Name&gt;&lt;Member Code=&quot;Y3-5&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;3-5 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;3-5 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y6-10&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;6-10 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;6-10 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y11-14&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;11-14 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;11-14 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y15-17&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;15-17 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;15-17 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y18-19&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;18-19 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;18-19 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y20-24&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;20-24 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;20-24 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y25-34&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;25-34 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;25-34 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y35-44&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;35-44 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;35-44 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y45-54&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;45-54 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;45-54 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y55-59&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;55-59 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;55-59 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y60-64&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;60-64 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;60-64 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y65-74&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;65-74 years&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;65-74 anni&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y_GE75&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;75 years and over&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;75 anni e più&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;Y_GE3&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;3 years and over&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;3 anni e più&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;TITOLO_STUDIO&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;TITOLO_STUDIO&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Educational level&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Titolo di studio&lt;/Name&gt;&lt;Member Code=&quot;99&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;total&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;totale&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;CONDIZIONE_DICH&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;CONDIZIONE_DICH&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Occupational status&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Condizione e posizione nella professione&lt;/Name&gt;&lt;Member Code=&quot;99&quot; HasMetadata=&quot;false&quot; HasOnlyUnitMetadata=&quot;false&quot; HasChild=&quot;0&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;total&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;totale&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;Dimension Code=&quot;TIME&quot; HasMetadata=&quot;false&quot; CommonCode=&quot;TIME&quot; Display=&quot;labels&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Select time&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;Seleziona periodo&lt;/Name&gt;&lt;Member Code=&quot;2015&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2015&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2015&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2016&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2016&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2016&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2017&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2017&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2017&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2018&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2018&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2018&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2019&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2019&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2019&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2020&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2020&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2020&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2021&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2021&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2021&lt;/Name&gt;&lt;/Member&gt;&lt;Member Code=&quot;2022&quot; HasMetadata=&quot;false&quot;&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;2022&lt;/Name&gt;&lt;Name LocaleIsoCode=&quot;it&quot;&gt;2022&lt;/Name&gt;&lt;/Member&gt;&lt;/Dimension&gt;&lt;WBOSInformations&gt;&lt;TimeDimension WebTreeWasUsed=&quot;false&quot;&gt;&lt;StartCodes Annual=&quot;2015&quot; /&gt;&lt;EndCodes Annual=&quot;2022&quot; /&gt;&lt;/TimeDimension&gt;&lt;/WBOSInformations&gt;&lt;Tabulation Axis=&quot;horizontal&quot;&gt;&lt;Dimension Code=&quot;TIPO_DATO_AVQ&quot; CommonCode=&quot;TIPO_DATO_AVQ&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;vertical&quot;&gt;&lt;Dimension Code=&quot;TIME&quot; CommonCode=&quot;TIME&quot; /&gt;&lt;Dimension Code=&quot;ETA1&quot; CommonCode=&quot;ETA1&quot; /&gt;&lt;/Tabulation&gt;&lt;Tabulation Axis=&quot;page&quot;&gt;&lt;Dimension Code=&quot;MISURA_AVQ&quot; CommonCode=&quot;MISURA_AVQ&quot; /&gt;&lt;Dimension Code=&quot;SEXISTAT1&quot; CommonCode=&quot;SEXISTAT1&quot; /&gt;&lt;Dimension Code=&quot;ITTER107&quot; CommonCode=&quot;ITTER107&quot; /&gt;&lt;Dimension Code=&quot;TITOLO_STUDIO&quot; CommonCode=&quot;TITOLO_STUDIO&quot; /&gt;&lt;Dimension Code=&quot;CONDIZIONE_DICH&quot; CommonCode=&quot;CONDIZIONE_DICH&quot; /&gt;&lt;/Tabulation&gt;&lt;Formatting&gt;&lt;Labels LocaleIsoCode=&quot;en&quot; /&gt;&lt;Power&gt;0&lt;/Power&gt;&lt;Decimals&gt;-1&lt;/Decimals&gt;&lt;SkipEmptyLines&gt;true&lt;/SkipEmptyLines&gt;&lt;SkipEmptyCols&gt;true&lt;/SkipEmptyCols&gt;&lt;SkipLineHierarchy&gt;true&lt;/SkipLineHierarchy&gt;&lt;SkipColHierarchy&gt;false&lt;/SkipColHierarchy&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;/Formatting&gt;&lt;/DataTable&gt;&lt;Format&gt;&lt;ShowEmptyAxes&gt;true&lt;/ShowEmptyAxes&gt;&lt;Page&gt;1&lt;/Page&gt;&lt;EnableSort&gt;true&lt;/EnableSort&gt;&lt;IncludeFlagColumn&gt;false&lt;/IncludeFlagColumn&gt;&lt;IncludeTimeSeriesId&gt;false&lt;/IncludeTimeSeriesId&gt;&lt;DoBarChart&gt;false&lt;/DoBarChart&gt;&lt;FreezePanes&gt;true&lt;/FreezePanes&gt;&lt;MaxBarChartLen&gt;65&lt;/MaxBarChartLen&gt;&lt;/Format&gt;&lt;Query&gt;&lt;Name LocaleIsoCode=&quot;en&quot;&gt;Tv and radio - detail age&lt;/Name&gt;&lt;AbsoluteUri&gt;http://dati.istat.it//View.aspx?QueryId=22370&amp;amp;QueryType=Public&amp;amp;Lang=en&lt;/AbsoluteUri&gt;&lt;/Query&gt;&lt;/WebTableParameter&gt;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2539308130016"><Data ss:Type="String">Measure</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2539308130036"><Data ss:Type="String">per 100 people with the same characteristics</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="m2539308130056"><Data ss:Type="String">Gender</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2539308130076"><Data ss:Type="String">total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="m2539308130096"><Data
+      ss:Type="String">Data type</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="m2539308130116"><Data ss:Type="String">persons aged 3 years and over by use and frequency of use of TV and radio</Data></Cell>
+   </Row>
+   <Row ss:Height="20">
+    <Cell ss:Index="4" ss:StyleID="s91"><Data ss:Type="String">  watching tv</Data></Cell>
+    <Cell ss:StyleID="s97" ss:HRef="http://dati.istat.it/OECDStat_Metadata/ShowMetadata.ashx?Dataset=DCCV_AVQ_PERSONE&amp;Coords=%5bTIPO_DATO_AVQ%5d.%5b3_TV_FD%5d&amp;ShowOnWeb=true&amp;Lang=en"><Data
+      ss:Type="String">  everyday</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Select time</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">Age class</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132720"><Data ss:Type="String">2015</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.1</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">95.1</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.4</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">95.6</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.6</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">83.6</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">82.9</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">90.2</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">78.900000000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">81.400000000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.6</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">84.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">87.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">93.7</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">96.5</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">95.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92.2</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.6</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132740"><Data ss:Type="String">2016</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">93.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">96.2</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.6</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">96.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">87.9</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">93.8</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">79.099999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">75.400000000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">73.599999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">79.599999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.3</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">81.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">84.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92.7</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.6</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.8</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">96.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.6</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.3</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92.2</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">86.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132760"><Data ss:Type="String">2017</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">93.8</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">96.7</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">93.1</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">93.6</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">87.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91.4</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">77.900000000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">73.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">85</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">72.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">87.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">75.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">81.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">85.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">93.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">89.4</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.7</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.9</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">96.2</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">95.4</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">93.7</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.9</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91.6</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">86.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132780"><Data ss:Type="String">2018</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">95.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">90.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">81.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.8</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">69.599999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">85.6</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">66.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">87</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">63.9</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">87.8</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">72.099999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">89.6</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">75.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.8</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">84.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">95.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91.9</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">95.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92.4</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">81.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132800"><Data ss:Type="String">2019</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.9</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">87.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">93.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">77.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">87.7</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">67.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">85</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">61.4</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">82.6</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">61.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">85.7</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">68.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">72.900000000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">77.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92.9</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">82</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">87.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">95.5</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91.9</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.3</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">79.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132820"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">87.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">90.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">89.8</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">77.099999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">85.4</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">82.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">67</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">82.2</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">61.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">86.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">68.099999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">73.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">91.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">79.099999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">93.8</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">83.1</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.3</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88.1</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">95.4</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">90.4</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">80.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132304"><Data ss:Type="String">2021</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">89.1</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">86.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">92.9</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">85.4</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">89.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">75.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">83.9</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">63.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">82.1</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">62</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">81.2</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">60.6</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">84.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">67.900000000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.9</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">74.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">90.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">79.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">93.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">85.1</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.5</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">93.5</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">90.1</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">80.599999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:MergeDown="13" ss:StyleID="m2539308132324"><Data ss:Type="String">2022</Data></Cell>
+    <Cell ss:StyleID="s100"><Data ss:Type="String">3-5 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">90.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">83.7</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">6-10 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91.7</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">85.1</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">11-14 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">90.4</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">70.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">15-17 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">79.5</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">57.5</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">18-19 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">81.8</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">54.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">20-24 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">77.400000000000006</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">51.8</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">25-34 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">80.3</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">66.400000000000006</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">35-44 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">85.4</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">69.599999999999994</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">45-54 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">88.2</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">76</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">55-59 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">80.2</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">60-64 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">93.1</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">86</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">65-74 years</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">94.5</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">90</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">75 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">94.9</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">92.3</Data></Cell>
+   </Row>
+   <Row ss:Height="13">
+    <Cell ss:Index="2" ss:StyleID="s100"><Data ss:Type="String">3 years and over</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">88.5</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="Number">77.7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s109" ss:HRef="http://dativ7a.istat.it//index.aspx?DatasetCode=DCCV_AVQ_PERSONE"><Data
+      ss:Type="String">Data extracted on 02 Jul 2023 13:26 UTC (GMT) fromI.Stat</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <TopRowVisible>1</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
